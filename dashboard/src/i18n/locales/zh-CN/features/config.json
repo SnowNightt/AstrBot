@@ -107,5 +107,16 @@
     "addToConfig": "已加入配置",
     "fileCount": "文件：{count}",
     "done": "完成"
+  },
+  "unsavedChangesWarning": {
+    "leavePage": "当前配置有未保存的更改，离开前是否保存？",
+    "switchConfig": "切换配置文件会丢失当前未保存的更改，是否先保存？",
+    "switchConfigType": "切换配置类型会丢失当前未保存的更改，是否先保存？",
+    "options": {
+      "saveAndLeave": "保存并离开",
+      "discardAndLeave": "放弃更改并离开",
+      "saveAndSwitch": "保存并切换",
+      "discardAndSwitch": "放弃更改并切换"
+    }
   }
 }
